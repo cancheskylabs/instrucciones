@@ -30,3 +30,5 @@ Diseño **luxury editorial** — oscuro, sofisticado, sin emojis y sin exceso de
 - Bordes y líneas decorativas finas en lugar de sombras pesadas.
 
 El resultado debe sentirse como el sitio web de una marca de lujo internacional: **sobrio, denso en impacto visual, impecable en detalles tipográficos**.
+
+Responsive first Mobile elegante y presentable
